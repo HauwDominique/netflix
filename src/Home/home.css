@@ -1,0 +1,21 @@
+.homeComponent{
+    border:solid 1px black;
+}
+
+.childComponent{
+    margin:0 auto;
+}
+
+.sliderHome{
+    background-color: black;
+    height: 235px;
+}
+
+.slider{
+    margin : 0 auto;
+    height: 100%;
+   }
+
+.listComponent{
+    padding:10px;
+}

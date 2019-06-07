@@ -1,0 +1,12 @@
+.listComponent{
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding:3px;
+}
+
+img{
+    border : solid 1px grey;
+    margin:5px 5px;
+}
